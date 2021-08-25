@@ -1,2 +1,1 @@
-# The Landing site
-#  TinDog
+# The Landing site - TinDog
